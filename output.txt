@@ -1,0 +1,4 @@
+1
+12
+vreau sa scriu asta in fisier
+am stat mai mult de 3 secunde
